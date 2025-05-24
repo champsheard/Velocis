@@ -19,7 +19,7 @@ I might change this later, but I like these parts
 
 Now to Cad! I have taken inspiration from the [Voron Trident](https://vorondesign.com/voron_trident) for the design of the frame and triple lead screw z axis
 
-Pictures of the cad
-![CAD Design - ](images/cad_front_view.png)
+Picture of the cad
+![CAD Design - ](img/CAD%20Frame.png)
 
 **Total time spent: 2h**
