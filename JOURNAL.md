@@ -12,7 +12,7 @@ created_at: "2024-05-24"
 
 **Description Ultra Fast CoreXY auto ejecting 3d Printer**
 
-**Total time spent: *5h***
+**Total time spent: *6.5h***
 
 ## May 24 (Day 1): Started CADing and Part Sourcing
 
@@ -60,6 +60,33 @@ I haven't CADed the linear rails yet, maybe I'll do that later today.
 <br/>
 
 **Time spent: 1.5h**
+
+## Day 2 Part 2: Cad
+
+I started by finding models of the linear rails I am going to use. I am going with **MGN9H** for the y axis, which is what I am designing. I have no idea how this is all going to fit into the budget. 
+
+Then I started to CAD. I first modified the length of the files I found from 390 mm to 300 to use them in my design. Then I imported them and attached them to my frame with joints. Then I imported the carriages into the design and used a sliding joint to attach them to the rail. It took me a little time to figure out, but in the end I got it. I then imported another aluminum extrusion to work as my x axis. 
+
+###  Pictures of Cad
+
+Added X axis extrusion
+
+<img src="img/Cad Frame 4.png" width="500px">
+
+<br/>
+
+One of the linear rails
+
+<img src="img/Linear Rails.png" width="1000px">
+
+<br/>
+
+**Time spent 1.5h** 
+
+
+
+
+
 
 
 
