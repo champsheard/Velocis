@@ -12,7 +12,7 @@ created_at: "2024-05-24"
 
 **Description Ultra Fast CoreXY auto ejecting 3d Printer**
 
-**Total time spent: *3.5h***
+**Total time spent: *5h***
 
 ## May 24 (Day 1): Started CADing and Part Sourcing
 
@@ -46,5 +46,26 @@ I worked on the Cad some more. I fixed the extrusion problems by uses [these](ht
 <br/>
 
 **Time spent: 1.5h**
+
+## May 25 (Day 2): Cad
+
+I started today by finishing CADing the basic frame, and looking at various linear rails. I found [these](https://www.aliexpress.us/item/2251832586981749.html?spm=2114.12010612.8148356.4.46a27cbep2UDWu&gatewayAdapt=glo2usa4itemAdapt) on the Voron sourcing guide for my y axis, but I am going to shop around for better prices. I am going to attach the Linear rails on the bottom of the aluminum extrusions, so I can install a cable chain later. 
+
+I haven't CADed the linear rails yet, maybe I'll do that later today.
+
+### Picture of Cad
+
+<img src="img/CAD Frame 3.png" width="500px">
+
+<br/>
+
+**Time spent: 1.5h**
+
+
+
+
+
+
+
 
 
