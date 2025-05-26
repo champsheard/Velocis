@@ -2,7 +2,7 @@
 title: "Velocis"
 author: "Euwain Sheard"
 description: "Ultra Fast CoreXY auto ejecting 3d Printer"
-created_at: "2024-05-24"
+created_at: "2025-05-24"
 ---
 
 
@@ -12,7 +12,7 @@ created_at: "2024-05-24"
 
 **Description Ultra Fast CoreXY auto ejecting 3d Printer**
 
-**Total time spent: *6.5h***
+**Total time spent: *8.5h***
 
 ## May 24 (Day 1): Started CADing and Part Sourcing
 
@@ -82,6 +82,33 @@ One of the linear rails
 <br/>
 
 **Time spent 1.5h** 
+
+
+## Day 3 (May 26): Tried to Cad and looked up corexy kinamatics
+
+Today I started to Cad the connectors between the x axis gantry and the y axis linear rails, and completed this only to find out that one of the linear rails was not in the right place. Then I spend way to long only to not figure it out. This problem is really frustrating. I have looked at all the joints and sketches and what not, but couldn't find the error. 
+
+I decided to take a break and further my knowledge of corexy kinamatics. I have a basic understanding but want to learn more about it I found [this](https://corexy.com/theory.html) really useful website that explains it.
+
+I don't have any pictures of Cad for the moment, I am still working on the error 😔
+
+## Day 3 Part 2: Fixed error
+
+I took a break for a bit to work on another project, after I came back to Fusion I had an idea to delete the sketch and look at the joint which was broken, and then undo it and fix the joint. This didn't work, but I was able to remake the sketch and that fixed it!.
+
+Now I can finally work on connecting the extrusions!
+
+I added an simple part to connect the extrusion to the linear rail, I still need to make the other one and add belt paths.
+
+### Pictures of Cad
+
+<img src="img/Linear Rail Connectors.png" width="500px">
+
+<br/>
+
+**Time spent 2h** 
+
+
 
 
 
