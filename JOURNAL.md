@@ -12,7 +12,7 @@ created_at: "2025-05-24"
 
 **Description Ultra Fast CoreXY auto ejecting 3d Printer**
 
-**Total time spent: *8.5h***
+**Total time spent: *10h***
 
 ## May 24 (Day 1): Started CADing and Part Sourcing
 
@@ -108,6 +108,17 @@ I added an simple part to connect the extrusion to the linear rail, I still need
 
 **Time spent 2h** 
 
+
+
+## Day 4 (May 27): Cad
+
+Today I started by mirroring the linear rail connector. I then started on the x axis linear rail. I connected the rail, but not the carriage. I will either do that later today or tomorrow.I also need to make the belt path and the idlers and pulleys.
+
+I will upload photos of cad when I finish the x axis linear rail either later today or tomorrow.
+
+<br/>
+
+**Time spent 1.5h**
 
 
 
