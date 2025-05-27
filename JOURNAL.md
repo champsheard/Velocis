@@ -12,7 +12,7 @@ created_at: "2025-05-24"
 
 **Description Ultra Fast CoreXY auto ejecting 3d Printer**
 
-**Total time spent: *10h***
+**Total time spent: *11h***
 
 ## May 24 (Day 1): Started CADing and Part Sourcing
 
@@ -119,6 +119,33 @@ I will upload photos of cad when I finish the x axis linear rail either later to
 <br/>
 
 **Time spent 1.5h**
+
+## Day 4 Part 2:
+
+While making the gantry frame I encountered an error. 
+
+<img src="img/Fusion 360 error.png" width="500">
+
+the joint was from one of the linear rails (I had previously connected the other one) to the x axis. T
+
+I eventually fixed this error by removing one of the linear rail slider joints and it worked fine. Then I went in a search for my other linear rail. I have decided to a MGN12H linear rail.
+
+Todo list for later
+
+* Model Belt Path with Pulleys
+* Model Z axis
+* Model Hotend
+* Find remaining parts
+
+
+
+### Pictures of CAD:
+
+<img src="img/Gantry With x and y axis.png" width="500px">
+
+<br/>
+
+**Time spent 1hr**
 
 
 
