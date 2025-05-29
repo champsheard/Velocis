@@ -12,7 +12,7 @@ created_at: "2025-05-24"
 
 **Description Ultra Fast CoreXY auto ejecting 3d Printer**
 
-**Total time spent: *12h***
+**Total time spent: *13h***
 
 ## May 24 (Day 1): Started CADing and Part Sourcing
 
@@ -170,6 +170,22 @@ For example my hotend, extuder, and mainboard together cost 200 dollars alone wh
 
 
 **Time spent 1hr**
+
+## Day 5 Part 2 
+
+I worked on Cad some more and am at the point where is was at before I changed the model. I modeled a simple version of the linear rail connectors
+
+
+
+### Pictures of CAD
+
+<img src="img/Almost Completed Frame.png" width="500px">
+
+<br/>
+
+**Time spent 1hr**
+
+
 
 
 
