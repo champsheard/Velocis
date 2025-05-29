@@ -12,7 +12,7 @@ created_at: "2025-05-24"
 
 **Description Ultra Fast CoreXY auto ejecting 3d Printer**
 
-**Total time spent: *11h***
+**Total time spent: *12h***
 
 ## May 24 (Day 1): Started CADing and Part Sourcing
 
@@ -147,10 +147,29 @@ Todo list for later
 
 **Time spent 1hr**
 
+## Day 5 (May 29)
+
+I was thinking about the 3d printer and realized I had some design flaws. I accidentally made the y axis 20 mm longer than the x axis which will make the corexy kinamatics extremely hard from the software perspective I also added a extrusion frame on top of the x axis, which is unnecessary and costly. I was also looking at my bom and it didn't line up, with my budget. I will have to work on that today, and fixing the CAD.
+
+I worked on CAD for 40 minutes and almost got to where I left off. It goes so much faster know that I know what I am doing and already have the parts imported.
+
+### Pictures of CAD
+
+<img src="img/New Frame.png" width="500px">
+
+<br/>
+
+I still need to change some things, but the design looks way more doable
+
+<br/>
+
+Now for the BOM. I need to cut some costs because I am somewhere in the 500s. I think my origional goal of 600 mm/s might be a stretch unless I can get some of the other parts locally for cheaper.
+
+For example my hotend, extuder, and mainboard together cost 200 dollars alone which means that I need to get everything else for 150 dollars, which dosen't check out.
 
 
 
-
+**Time spent 1hr**
 
 
 
