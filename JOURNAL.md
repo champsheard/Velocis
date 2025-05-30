@@ -12,7 +12,7 @@ created_at: "2025-05-24"
 
 **Description Ultra Fast CoreXY auto ejecting 3d Printer**
 
-**Total time spent: *13h***
+**Total time spent: *14.5h***
 
 ## May 24 (Day 1): Started CADing and Part Sourcing
 
@@ -185,6 +185,27 @@ I worked on Cad some more and am at the point where is was at before I changed t
 
 **Time spent 1hr**
 
+
+## Day 6 (May 30): Started to Cad Belt Path
+
+Today I started to model the belt path where the idlers will go.
+
+**Time Spent 0.5h**
+
+
+## Day 6 Part 2: 
+
+I messed around with the position of the idlers and think I found the optimal position. I am designing the part in a different file and will just import into the main design
+
+### Pictures of Cad
+
+<img src="img/Front View.png" width="500">
+
+<img src="img/Side View.png" width="500">
+
+<img src="img/View3.png" width="500">
+
+**Time Spent 1h**
 
 
 
