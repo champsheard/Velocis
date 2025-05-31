@@ -208,6 +208,15 @@ I messed around with the position of the idlers and think I found the optimal po
 **Time Spent 1h**
 
 
+## Day 6 Part 3: Finished Cad Mockup of belt path
+
+I finished a belt path mockup for the right side of the x axis. I now need to modify it a little bit and then add it to the main design. I was experimenting with different positions, but I think I found the optimal one. I also need to switch the belts and add it to the left side
+
+### Pictures of CAD
+
+<img src="img/Completed Belt Path Right.png" width="500">
+
+I was also looking at the budget. I really need to strip some of the more expensive parts to cheaper alternatives. 
 
 
 
