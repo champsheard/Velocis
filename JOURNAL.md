@@ -12,7 +12,7 @@ created_at: "2025-05-24"
 
 **Description Ultra Fast CoreXY auto ejecting 3d Printer**
 
-**Total time spent: *15.5h***
+**Total time spent: *17h***
 
 ## May 24 (Day 1): Started CADing and Part Sourcing
 
@@ -235,6 +235,30 @@ Linear Rail connector so far!
 <br/>
 
 **Time Spent 1hr**
+
+
+## Day 7 Part 2: Added Stepper Motors
+
+I added the CAD files for the stepper motors, and made motor mounts that double as corner cubes. I am going to go with NEMA 17 48mm 56 N. I found these on the voron sourcing guide. [Stepper Motor](https://www.aliexpress.us/item/2251832403173475.html?aff_fcid=4793509057d2412bb040442114fdae87-1749333615299-02696-5E5huNIu&aff_fsk=5E5huNIu&aff_platform=link-c-tool&sk=5E5huNIu&aff_trace_key=4793509057d2412bb040442114fdae87-1749333615299-02696-5E5huNIu&terminal_id=c7e8686125bb45c1a683357c59a39ebb&gatewayAdapt=glo2usa4itemAdapt)
+
+I also made a mockup of the 2 belt paths for reference
+<img src="img/belt1.png" width="500">
+<img src="img/belt2.png" width="500">
+
+
+### Pictures of CAD 
+
+<img src="img/Frame With Motors.png" width="500">
+
+**Time Spent 1.5hr**
+
+
+
+
+
+
+
+
 
 
 
