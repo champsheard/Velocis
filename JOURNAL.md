@@ -12,7 +12,7 @@ created_at: "2025-05-24"
 
 **Description Ultra Fast CoreXY auto ejecting 3d Printer**
 
-**Total time spent: *14.5h***
+**Total time spent: *15.5h***
 
 ## May 24 (Day 1): Started CADing and Part Sourcing
 
@@ -217,6 +217,25 @@ I finished a belt path mockup for the right side of the x axis. I now need to mo
 <img src="img/Completed Belt Path Right.png" width="500">
 
 I was also looking at the budget. I really need to strip some of the more expensive parts to cheaper alternatives. 
+
+## Day 7 (June 7): Modified design continued CAD
+
+I have realized with the given budget, my expectation is too high. I am going to try to make the printer reasonably fast, but it probably wont hit the 600 mm/s I was hoping for. I have decided to move the linear rails for the y axis to the top of the gantry for simplicity of making the belt path. I have started to model these, but due to limited time I will finish them later.
+
+### Pictures of Cad
+
+<img src="img/New Design.png" width="500">
+
+This is the new design I am going to do
+
+<img src="img/Connector So Far.png" width="500">
+
+Linear Rail connector so far!
+
+<br/>
+
+**Time Spent 1hr**
+
 
 
 
