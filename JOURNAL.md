@@ -253,6 +253,24 @@ I also made a mockup of the 2 belt paths for reference
 **Time Spent 1.5hr**
 
 
+## Day 8 (June 8): Cad and BOM
+
+I started today by spending some time finishing the belt path. I am excited because this is one of the parts I felt intimidated by. I decided to route the belts on top of the printer, for simplicity in design. I might redesign some of the components later for ascetics. I am going to work on the hotend and z axis next. 
+
+I also started my BOM. I might change some of the vendors later, but this is what I have found and modeled so far.
+
+### Pictures of CAD
+
+<img src="img/Belt Path Finished.png" width="500">
+
+
+<img src="img/Angle 2 of Belt Path.png" width="500">
+
+
+**Time Spent 2.5hr**
+
+
+
 
 
 
